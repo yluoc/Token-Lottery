@@ -3,6 +3,7 @@ cache/
 out/
 lib/
 .github/
+.vscode/
 # Ignores development broadcast logs
 !/broadcast
 /broadcast/*/31337/
